@@ -1,0 +1,10 @@
+Dimensions:  (100, 3)
+[[30.28671077 43.89499752  0.        ]
+ [35.84740877 72.90219803  0.        ]
+ [60.18259939 86.3085521   1.        ]
+ [79.03273605 75.34437644  1.        ]
+ [45.08327748 56.31637178  0.        ]]
+/home/madhav/.local/lib/python3.6/site-packages/sklearn/utils/validation.py:760: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+Theta  [[-4.61452213e-06  1.90445134e-01  1.98700293e-01]]
+Accuracy of logistic regression classifier on test set: 0.90
